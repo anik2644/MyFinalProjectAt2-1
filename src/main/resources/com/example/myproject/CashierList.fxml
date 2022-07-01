@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1320.0" styleClass="black_pane" stylesheets="@style.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.myproject.CashierListController">
+   <children>
+      <Label fx:id="c1" alignment="CENTER" layoutX="430.0" layoutY="200.0" prefHeight="56.0" prefWidth="267.0" textFill="#f5f5f5">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="c2" alignment="CENTER" layoutX="430.0" layoutY="270.0" prefHeight="56.0" prefWidth="267.0" textFill="#f5f5f5">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="c3" alignment="CENTER" layoutX="430.0" layoutY="345.0" prefHeight="56.0" prefWidth="267.0" textFill="#f5f5f5">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="c4" alignment="CENTER" layoutX="430.0" layoutY="415.0" prefHeight="56.0" prefWidth="267.0" textFill="#f5f5f5">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="c5" alignment="CENTER" layoutX="436.0" layoutY="492.0" prefHeight="56.0" prefWidth="267.0" textFill="#f5f5f5">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Button layoutX="416.0" layoutY="118.0" mnemonicParsing="false" onAction="#NameClickeed" prefHeight="47.0" prefWidth="254.0" text="Name">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button layoutX="420.0" layoutY="671.0" mnemonicParsing="false" onAction="#BackClicked" prefHeight="47.0" prefWidth="245.0" text="Back">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

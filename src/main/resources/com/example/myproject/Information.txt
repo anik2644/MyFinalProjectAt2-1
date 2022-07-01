@@ -1,0 +1,10 @@
+﻿Information
+
+
+The cashier app records all sales details in one day and shows what items have been purchased ,
+how many items are still in stock.
+The benefits of the cashier application can provide the best service for your customers quickly and quickly.
+With a fast system, of course this will not make your customers have to be stuck in long quees.
+Your business will look more modern and professional which will make it easier for your customers to trust
+your business. The cashier application allows you to re-check the products you input.
+That way you can reduce sales transaction errors.
